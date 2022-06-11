@@ -19,6 +19,18 @@ public class Practice4 {
 		System.out.println(zz);
 		
 		System.out.println("The Unary operations ios  "+ " \n"+y+"\n"+yy+"\n"+z+"\n"+zz);
+		
+		// Arthametic Operations
+		int a = y +z;
+		int b = yy-zz;
+		int c = y*zz;
+		int d = yy%z;
+		int e = x/w;
+		System.out.println("The Unary operations is"+"\n"+"Addition "+a+
+				"\n"+"Substraction  is "+b+
+				"\n"+"Multipication is  "+c+
+				"\n"+"remainder is "+d+
+				"\n"+"Deviding is "+e);
     
     
 
