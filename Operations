@@ -68,6 +68,18 @@ public class Practice4 {
 	//Assignment operators
 	System.out.println( m+=y);
 		System.out.println( m-=z);
+		
+		
+		
+		
+		// ternary oparators
+		
+		int ter = m<n?143:225;
+		System.out.println( ter);
+		
+		int ter1 = m>n?143:225;
+		System.out.println( ter1);
+
 
 	}
 
