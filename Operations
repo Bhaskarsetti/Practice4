@@ -43,7 +43,27 @@ public class Practice4 {
 
 		System.out.println(o);
     
-    
+    // Relation ship operators
+		
+		if (m < n) {
+			System.out.println(n);
+		}
+		if (m > n) {
+			System.out.println(m);
+		}
+		else {
+			
+				System.out.println(n);
+			
+		}
+		if (m ==n) {
+			System.out.println(n);
+		}
+		else {
+			
+			System.out.println(m);
+		
+	}
 
 	}
 
