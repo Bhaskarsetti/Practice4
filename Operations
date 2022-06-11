@@ -31,6 +31,17 @@ public class Practice4 {
 				"\n"+"Multipication is  "+c+
 				"\n"+"remainder is "+d+
 				"\n"+"Deviding is "+e);
+				
+				
+				// shift opartors
+		
+		int m = 10;
+		int n =m<<2;
+		int o =m>>2;
+
+		System.out.println(n);
+
+		System.out.println(o);
     
     
 
