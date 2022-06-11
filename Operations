@@ -64,6 +64,10 @@ public class Practice4 {
 			System.out.println(m);
 		
 	}
+	
+	//Assignment operators
+	System.out.println( m+=y);
+		System.out.println( m-=z);
 
 	}
 
